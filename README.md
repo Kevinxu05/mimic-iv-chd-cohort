@@ -24,4 +24,4 @@ This repository distributes **code and documentation only**. Obtain authorized a
 
 ## Related project
 
-[mimic-radiology-ehr-linkage](https://github.com/Kevinxu05/mimic-radiology-ehr-linkage) provides the separate general-purpose radiology–EHR linkage pipeline.
+[mimic-iv-radiology-ehr-linkage](https://github.com/Kevinxu05/mimic-iv-radiology-ehr-linkage) provides the separate general-purpose radiology–EHR linkage pipeline.
