@@ -1,4 +1,4 @@
-# MIMIC-IV CHD cohort with radiology reports
+# MIMIC-IV Congenital Heart Disease Cohort with Radiology Reports
 
 Identify a patient-level congenital cardiovascular-malformation cohort in **MIMIC-IV v3.1** using ICD-9 **745–747** or ICD-10 **Q20–Q28**, then extract demographics, hospital diagnoses, procedures, admissions, radiology reports and discharge summaries into separate local CSVs.
 
